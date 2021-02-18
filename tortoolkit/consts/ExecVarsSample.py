@@ -5,19 +5,19 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = "f423cffca6b5b7247b31b5b0df61f48d"
-        API_ID = 1733305
-        BOT_TOKEN = "1596550006:AAHQElSAohAblzQ4MubzImzNlttG2uJHkus"
-        BASE_URL_OF_BOT = "http://t.me/torleechpro_bot"
+        API_HASH = ""
+        API_ID = 
+        BOT_TOKEN = ""
+        BASE_URL_OF_BOT = ""
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [1156597097,-1001266398622]
+        ALD_USR = []
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = "https://allinone.darkkali614.workers.dev/0:"
+        GD_INDEX_URL = ""
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
@@ -35,7 +35,7 @@ except:
         REMAINING_STR = "▒"
 
         # DB URI for access
-        DB_URI = "postgresql://postgres:dkkaj0123@postgresql/postgres"
+        DB_URI = ""
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
